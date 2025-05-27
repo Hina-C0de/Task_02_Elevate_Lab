@@ -3,11 +3,11 @@
    The image upload is the sample example of phising email from hooksecurity.com site
    After analyzing this email,
    1. Sender's email address
-      support@msupdate.net  : not an official Microsoft address
-      msupdate.net is not a legitimate Microsoft domain.
-      Official Microsoft email domains are: @microsoft.com, @accountprotection.microsoft.com, @security.microsoft.com
-      Red flag: Attackers tend to use domains that appear similar to authentic ones in an effort to impersonate trusted senders.
-      In this instance, msupdate.net is probably an attack domain pretending to be Microsoft.
+      support@msupdate.net  : not an official Microsoft address.  
+      msupdate.net is not a legitimate Microsoft domain.   
+      Official Microsoft email domains are: @microsoft.com, @accountprotection.microsoft.com, @security.microsoft.com   
+      Red flag: Attackers tend to use domains that appear similar to authentic ones in an effort to impersonate trusted senders.    
+      In this instance, msupdate.net is probably an attack domain pretending to be Microsoft.    
 
  2. Email Header Check 
     We can't see the full raw headers in the screenshot. We can check the header by using tools like Google Header analyzer and MXToolbar Email header analyzer
